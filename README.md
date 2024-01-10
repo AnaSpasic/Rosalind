@@ -12,6 +12,6 @@ http://rosalind.info
 | SSEQ     | [Finding a Spliced Motif   ](https://rosalind.info/problems/sseq/)                        |
 | LIA | [Independent Alleles    ](https://rosalind.info/problems/lia/)                   |
 | MEND | [Inferring Genotype from a Pedigree](https://rosalind.info/problems/mend/)                   |
-| MAJ | [Inferring Genotype from a Pedigree   ](https://rosalind.info/problems/mend/) ]                    |
+| MAJ | [Inferring Genotype from a Pedigree   ](https://rosalind.info/problems/mend/)                   |
 | RSTR | [Majority Element ](https://rosalind.info/problems/maj/)                                |
 | IPRB | [Mendel's First Law ](https://rosalind.info/problems/iprb/)                         |
