@@ -5,7 +5,7 @@ http://rosalind.info
 
 | ID   | Title                                          | Notes |
 |------|------------------------------------------------|---------|
-| [IEV](/Calculating Expected Offspring)  | Calculating Expected Offspring                     |        |
+| [IEV](/CalculatingExpectedOffspring)  | [Calculating Expected Offspring ](https://rosalind.info/problems/iev/)                    |        |
 | [RNA](/rna)  | Transcribing DNA into RNA                      |        |
 | [REVC](/revc) | Complementing a Strand of DNA                  |        |
 | [FIB](/fib)  | Rabbits and Recurrence Relations               |        |
