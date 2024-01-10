@@ -11,7 +11,7 @@ http://rosalind.info
 | LCSM  | [Finding a Shared Motif](https://rosalind.info/problems/lcsm/)               |
 | SSEQ     | [Finding a Spliced Motif   ](https://rosalind.info/problems/sseq/)                        |
 | LIA | [Independent Alleles    ](https://rosalind.info/problems/lia/)                   |
-| MEND | [Translating RNA into Protein](https://rosalind.info/problems/mend/)                   |
-| [SUBS](/subs) | [Finding a Motif in DNA   ](https://rosalind.info/problems/mend/)                      |
-| [GRPH](/grph) | Overlap Graphs                                 |
-| [ORF](/orf)  | Open Reading Frames                            |
+| MEND | [Inferring Genotype from a Pedigree](https://rosalind.info/problems/mend/)                   |
+| MAJ | [[Majority Element   ](https://rosalind.info/problems/mend/) ]                    |
+| RSTR | [Majority Element ](https://rosalind.info/problems/maj/)                                |
+| IPRB | [Mendel's First Law ](https://rosalind.info/problems/iprb/)                         |
